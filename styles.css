@@ -85,11 +85,6 @@ main {
 
 /* --- Imágenes dentro de las tarjetas --- */
 .imagen {
-  width: 100%;
-  max-width: 450px;
-  border-radius: 14px;
-  margin-top: 1rem;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
 /* --- Botones de contacto --- */
