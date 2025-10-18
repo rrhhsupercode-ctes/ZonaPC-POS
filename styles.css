@@ -156,9 +156,5 @@ footer {
 /* --- Banner en header --- */
 .banner {
   display: block;
-  margin: 1.2rem auto 0 auto;
-  border-radius: 10px;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.2);
-  max-width: 90%;
-  height: auto;
+  border-radius: 0px;
 }
