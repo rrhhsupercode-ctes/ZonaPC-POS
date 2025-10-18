@@ -85,6 +85,7 @@ main {
 
 /* --- Imágenes dentro de las tarjetas --- */
 .imagen {
+   justify-content: center;
 }
 
 /* --- Botones de contacto --- */
